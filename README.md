@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Neha More</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🔭 I’m currently working on **Browser Extension for Covid-19 Data**
+- 🔭 I’m currently working with **Leicester City Council as Data Scientist**
 
-- 🌱 I’m currently learning **Flask, Javascript, NLP.**
+- 🌱 I’m currently learning **Database Design, Data Reporting, Power BI, ML, NLP, Sentiment Analysis, Business Development.**
 
-- 💬 Ask me about **Python, JAVA, SQL**
+- 💬 Ask me about **Python, JAVA, SQL, Javascript, APIs**
 
 - 📫 How to reach me **nwhamore@gmail.com**
 
