@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working with **Leicester City Council as Data Scientist**
 
-- 🌱 I’m currently learning **Database Design, Data Reporting, Power BI, ML, NLP, Sentiment Analysis, Business Development.**
+- 🌱 Developing and supporting **Database Design, Data Reporting, Power BI, ML models on survey data, NLP, Sentiment Analysis, Business Development.**
+  
+- 📚 I'm also learning **LLM fine tuning, RAG, making ML-ready data pipelines for finance data, use of MS Fabric for complete Data Enginerring, science and Analystics solutions.**
 
-- 💬 Ask me about **Python, JAVA, SQL, Javascript, APIs**
+- 💬 Ask me about **Python, JAVA, SQL, Javascript, APIs, SSIS, ML/AI models, Data**
 
 - 📫 How to reach me **nwhamore@gmail.com**
 
