@@ -1,20 +1,108 @@
 <h1 align="center">Hi 👋, I'm Neha More</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">Data Scientist | ML, NLP & Analytics | Python, SQL, Power BI, Azure/Fabric</h3>
 
-- 🔭 I’m currently working with **Leicester City Council as Data Scientist**
-
-- 🌱 Developing and supporting **Database Design, Data Reporting, Power BI, ML models on survey data, NLP, Sentiment Analysis, Business Development.**
-  
-- 📚 I'm also learning **LLM fine tuning, RAG, making ML-ready data pipelines for finance data, use of MS Fabric for complete Data Enginerring, science and Analystics solutions.**
-
-- 💬 Ask me about **Python, JAVA, SQL, Javascript, APIs, SSIS, ML/AI models, Data**
-
-- 📫 How to reach me **nwhamore@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/neha-mmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/neha-mmore" height="30" width="40" /></a>
+<p align="center">
+  Turning messy data into insights, dashboards, and machine learning solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:nwhamore@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/neha-mmore/">
+    <img src="https://img.shields.io/badge/LinkedIn-Neha%20More-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Neha-More10">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🔭 Currently working as a **Junior Data Scientist at Leicester City Council**
+- 🌱 Working on **ML models, NLP, Power BI dashboards, survey analytics, and data pipelines**
+- 🧠 Exploring **RAG, LLM fine-tuning, ML-ready data pipelines, and Microsoft Fabric**
+- 💬 Ask me about **Python, SQL, APIs, Power BI, NLP, ML models, Azure/Fabric**
+- ✨ I enjoy building **clean, reusable, and practical data solutions**
+
+---
+
+## 🚀 What I Work On
+
+- 📊 Predictive modelling and forecasting  
+- 🧾 Sentiment analysis and NLP pipelines  
+- 📈 Stakeholder-friendly dashboards and reporting  
+- ⚙️ Data pipelines and ETL workflows  
+- 🤖 GenAI experiments with RAG and embeddings  
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,sql,git,azure,docker,flask,linux,mysql,postgres,postman,tensorflow" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MS%20Fabric-5B2EFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Text%20Analytics-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Modeling-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-LLM%20Apps-2ea44f?style=for-the-badge" />
+</p>
+
+---
+
+## 📌 Featured Interests
+
+- Machine Learning  
+- NLP & Sentiment Analysis  
+- Data Engineering  
+- Customer & Survey Analytics  
+- LLMs, RAG, and applied AI  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neha-More10&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-More10&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha-More10&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- LLM fine-tuning  
+- Retrieval-Augmented Generation (RAG)  
+- Marketing / customer analytics use cases  
+- Building scalable ML and data workflows in Fabric  
+
+---
+
+## 🌍 A Little Beyond Work
+
+- 🍝 I enjoy cooking  
+- 📚 I like reading mystery and mythology  
+- ✈️ I love travelling because it helps me reset and return with fresh perspectives  
+
+---
+
+## ✨ Fun Line
+
+> “I like turning complex data into clear decisions — one model, one dashboard, and one insight at a time.”
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
